@@ -1,0 +1,7 @@
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\bin\Debug\Advance CSharp.exe.config
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\bin\Debug\Advance CSharp.exe
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\bin\Debug\Advance CSharp.pdb
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\obj\Debug\Advance CSharp.csprojResolveAssemblyReference.cache
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\obj\Debug\Advance CSharp.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\obj\Debug\Advance CSharp.exe
+C:\Users\murat\source\repos\Advance CSharp\Advance CSharp\obj\Debug\Advance CSharp.pdb
