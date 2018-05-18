@@ -1,6 +1,0 @@
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\bin\Debug\InterviewQuestions.exe.config
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\bin\Debug\InterviewQuestions.exe
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\bin\Debug\InterviewQuestions.pdb
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\obj\Debug\InterviewQuestions.csproj.CoreCompileInputs.cache
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\obj\Debug\InterviewQuestions.exe
-C:\Users\murat\source\repos\Advance CSharp\InterviewQuestions\obj\Debug\InterviewQuestions.pdb
